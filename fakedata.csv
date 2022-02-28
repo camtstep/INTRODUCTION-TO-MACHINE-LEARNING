@@ -1,0 +1,201 @@
+name,company,salary,address,above500k,status
+Jennifer Baker,Anderson Group,510000,"5958 Michael Village Suite 129
+West Kevin, KS 65976",True,500k-1M USD
+Christopher Taylor,"Rivera, Rivera and Scott",80000,"42671 Ricardo Roads
+Brendantown, RI 10369",False,0k-500k USD
+Melissa Wilson,"Franco, Garcia and Gomez",200000,"3103 Tammy View
+Alexanderfurt, NC 63229",False,0k-500k USD
+Lori Pham,Jenkins LLC,540000,"052 Allen Bridge Apt. 194
+Parkerhaven, ND 81927",True,500k-1M USD
+Jacqueline Foster,"Osborne, Ross and Walker",490000,"4821 Denise Curve Apt. 871
+North Jill, PA 98124",False,0k-500k USD
+Cassandra Howard,"Hansen, Perez and Sloan",220000,"16914 Le Road Suite 879
+Shieldsshire, KS 58869",False,0k-500k USD
+Amy Obrien,Pineda Inc,920000,"30884 Kevin Circles
+Donnaport, AK 08626",True,500k-1M USD
+Rachael Boyd,Mann Inc,690000,"USNV Kemp
+FPO AE 05452",True,500k-1M USD
+Shirley White,Smith-Dougherty,840000,"528 Soto Ridges Apt. 684
+Christopherland, ID 19579",True,500k-1M USD
+Cassandra Murillo,Lewis and Sons,90000,"2173 Yvonne Village
+West Kayleeshire, WY 57737",False,0k-500k USD
+Brian Watson,"Mitchell, Garrett and Hayes",440000,"USNV Sanchez
+FPO AE 52495",False,0k-500k USD
+Angela Mercado,Reeves PLC,620000,"3908 Eric Wall
+North James, CT 69816",True,500k-1M USD
+Rachel Perez,Mckinney-Travis,440000,"26463 Danielle Curve
+Glennton, MD 95186",False,0k-500k USD
+Mr. Lawrence Hill,Walton-Henderson,260000,"6419 Martin Port Suite 049
+Port Jenniferside, RI 90155",False,0k-500k USD
+Gabriel Gonzalez,Burton LLC,690000,"Unit 8682 Box 6153
+DPO AP 01411",True,500k-1M USD
+Justin Soto,Simmons Group,490000,"6372 Austin Lakes Apt. 498
+Kevinberg, AZ 53408",False,0k-500k USD
+Michelle Williams,Crawford Inc,310000,"11283 Brittney Fords Apt. 008
+North Natashaton, NE 42874",False,0k-500k USD
+Alexis Mcintosh,"Saunders, Walters and Moran",120000,"135 King Parkways Apt. 867
+East Darryl, KS 50092",False,0k-500k USD
+Deborah Byrd,Vargas PLC,600000,"5170 Garcia Ridges
+North Jessicafort, WY 67130",True,500k-1M USD
+James Evans,"Bruce, Kennedy and Brown",710000,"44201 Betty Crossing
+Scottfort, WA 02055",True,500k-1M USD
+Penny Rodgers,Olson Ltd,270000,"03366 Keller Meadows
+Lake Margaretburgh, DC 82824",False,0k-500k USD
+Randy Harris,Cantu-Craig,930000,"79710 Cameron Shore
+South Daniel, NJ 82956",True,500k-1M USD
+Ryan Key,Neal-Moore,330000,"Unit 8970 Box 5872
+DPO AE 34793",False,0k-500k USD
+Michael Lewis,"Rogers, Henderson and Nelson",700000,"930 Bates Glens Suite 210
+Martinview, IA 33663",True,500k-1M USD
+Kimberly Watson,Crosby-Macdonald,410000,"2462 Cole Plain
+Jonathanville, AR 29224",False,0k-500k USD
+Gregory Burns,Meyers and Sons,520000,"696 Sarah Rest
+West Lisa, MT 45216",True,500k-1M USD
+Jason Gonzalez,"Rowe, Matthews and Smith",640000,"68854 Alexis Grove Apt. 881
+Natalieland, LA 58557",True,500k-1M USD
+Manuel Gonzalez,Greer Group,610000,"6714 Robin Flat
+Francoton, RI 61957",True,500k-1M USD
+Tracey Smith,"Clark, Cole and Sanders",330000,"193 Daniel Highway
+Joseberg, MT 19518",False,0k-500k USD
+Christopher Nichols,Ward PLC,370000,"247 Dawn Orchard Apt. 863
+New Chelsea, ME 05403",False,0k-500k USD
+Michelle Molina,Ingram-Barton,400000,"114 Campbell Knolls
+Pricestad, MI 17852",False,0k-500k USD
+Jeffrey Proctor,Sanders-Carlson,150000,"00018 Hill Spur
+New Kurt, WA 32476",False,0k-500k USD
+Alicia Huff,"Wilson, Cook and Ayers",510000,"5453 Rickey Estate Apt. 640
+Josephville, CO 66654",True,500k-1M USD
+Donna Pineda,Smith-Brown,680000,"PSC 0282, Box 0719
+APO AP 39919",True,500k-1M USD
+Nancy Lopez,"Johnson, Patterson and Shaw",500000,"3793 Ross Ports
+West Joelview, RI 76545",False,500k-1M USD
+Monique Clark,"Ramirez, Barry and Cook",190000,"72923 Zachary Heights Apt. 092
+Esparzamouth, ID 75872",False,0k-500k USD
+Melinda Moore,Clark-Gilbert,190000,"52914 Sanchez Greens Suite 764
+Stephaniemouth, UT 57238",False,0k-500k USD
+Jordan Brown,"Foster, Waller and Perkins",620000,"95059 Mcguire Roads
+Sanchezport, AL 04951",True,500k-1M USD
+Veronica Rivera,Phillips-Santana,470000,"68728 Michelle Court Apt. 997
+Susanton, FL 79742",False,0k-500k USD
+Christopher Hicks,Walker-Franklin,760000,"68071 Farmer Squares Apt. 538
+West Jillshire, WV 98125",True,500k-1M USD
+Brittany Robinson,Perez-Carey,580000,"75490 Kayla Plaza
+Amandaville, NH 10427",True,500k-1M USD
+Donna Glenn,"Gallegos, Mclaughlin and Burns",210000,"040 Cindy Pike
+Lisachester, NE 63643",False,0k-500k USD
+Kelsey Williams,Nielsen PLC,350000,"01685 Tiffany Mountain Apt. 685
+Ayalachester, VT 21441",False,0k-500k USD
+Cheyenne Cochran,Taylor-Perez,500000,"997 Taylor Plaza Apt. 576
+Jonesport, OR 79616",False,500k-1M USD
+Sarah Wang,Butler Group,630000,"680 Katrina Freeway Suite 278
+Joshuaberg, MT 60030",True,500k-1M USD
+Paul Smith,Ward-Anthony,820000,"475 Lopez Squares Apt. 137
+Brittanyside, IA 14899",True,500k-1M USD
+Joseph Wallace,Anderson-Scott,160000,"0834 Cheryl Grove
+North Sarah, NJ 66712",False,0k-500k USD
+Jessica Marshall,Mckenzie and Sons,320000,"1452 Michael Cape Apt. 327
+Lake Melissa, WA 40673",False,0k-500k USD
+Danny Richardson,Hobbs and Sons,600000,"260 Tina Isle Apt. 700
+New Michaelport, OR 09017",True,500k-1M USD
+Chelsea Adams,Blackwell PLC,980000,"1619 David Motorway Apt. 996
+Salazarburgh, AZ 88228",True,500k-1M USD
+Eric Jones,Wallace-Jones,570000,"428 Thomas Inlet
+New Samantha, MO 33117",True,500k-1M USD
+Priscilla Burns,Terry LLC,560000,"6293 Diaz Summit Suite 905
+Haleport, NV 64737",True,500k-1M USD
+Stephanie Reyes,"Moore, Collins and Hoffman",560000,"41065 Michaela Green Suite 124
+New Chadberg, NE 08308",True,500k-1M USD
+Derek Sandoval,Buck and Sons,100000,"24706 Martinez Point
+Sawyerberg, HI 57825",False,0k-500k USD
+Luke Lawson,Jones Group,900000,"929 Neal Mews
+Port Jamesfurt, OR 85969",True,500k-1M USD
+Valerie Fisher DVM,Martinez Group,880000,"222 Rivera Throughway Suite 494
+Kristintown, DC 89326",True,500k-1M USD
+Jessica Clark,Nguyen-Franklin,860000,"576 Diaz Mill Suite 829
+Garciabury, MD 67594",True,500k-1M USD
+Joanne Cantrell,"Ellison, Miller and Douglas",950000,"52401 Melton Rapid Suite 829
+East Jacquelineton, MA 62034",True,500k-1M USD
+Cassidy Russell,Contreras Inc,110000,"750 Price Haven Suite 073
+Hahntown, MN 68944",False,0k-500k USD
+Spencer Adams,Johnson-Lee,400000,"14582 Perez Inlet Apt. 065
+West Charlesborough, MO 82782",False,0k-500k USD
+Christopher Moore,"White, Mason and Hunter",700000,"579 Wood Common
+New Kaitlynland, IL 14866",True,500k-1M USD
+Karla Jimenez,Nolan LLC,190000,"79768 Jeffrey Views
+South Richard, WV 46098",False,0k-500k USD
+Kristen Glenn,"Pham, Riley and Williams",350000,"USCGC Tyler
+FPO AE 98673",False,0k-500k USD
+Nicole Johnston,Jordan-Hinton,640000,"0720 Kyle Manor Suite 993
+New Randy, MO 25164",True,500k-1M USD
+Heather Brown,Nguyen Group,960000,"505 Martin Ville Suite 874
+Fletcherbury, OH 22276",True,500k-1M USD
+Jeremy Rivera,Curtis and Sons,570000,"055 Dickerson Mountains Apt. 890
+Marthaton, WI 23437",True,500k-1M USD
+Justin Mcintosh,"Calhoun, Ford and Davis",620000,"6576 Adam Plain
+Shawnchester, KS 63918",True,500k-1M USD
+Kelly Moss,"Scott, Davenport and Brown",670000,"117 Cooper Points
+Dianefort, UT 48041",True,500k-1M USD
+Joshua Shaffer,Gutierrez Ltd,730000,"096 Natalie Cliff
+Halltown, AL 54309",True,500k-1M USD
+Lisa Jones,Gonzalez-Fuller,430000,"560 Mcgee Court
+West Rebecca, MN 08606",False,0k-500k USD
+Michelle Solomon,"Hendrix, Jones and Hernandez",110000,"7605 Kevin Heights Suite 812
+Port Michellebury, VA 81837",False,0k-500k USD
+Donald Moore,Rodriguez Inc,140000,"213 Dean Prairie Apt. 247
+Michaelfort, RI 01022",False,0k-500k USD
+Amy Rodriguez,Myers-Simpson,680000,"679 Rodriguez Mill Suite 488
+Jacobburgh, NY 07443",True,500k-1M USD
+Jessica Erickson,Cherry Inc,520000,"5861 Ramsey Groves
+East Stephenport, LA 33464",True,500k-1M USD
+Taylor Cummings,"Martin, Snyder and Ortega",830000,"80241 Howard Shores
+East Kennethmouth, OK 67862",True,500k-1M USD
+Rebecca Goodman,Esparza Inc,280000,"1944 Matthew Estates Apt. 863
+Lorishire, LA 35100",False,0k-500k USD
+Amy Brown,"Brown, Ruiz and Mcpherson",110000,"2962 Fitzgerald Groves
+North Michaelbury, AL 44205",False,0k-500k USD
+Amanda Gutierrez,Hernandez LLC,790000,"798 West Brook
+Wilkinsonmouth, MS 17312",True,500k-1M USD
+Randy Clark,Todd LLC,910000,"9192 Zimmerman Brooks
+Gilbertstad, NH 86535",True,500k-1M USD
+Aaron Smith,Rodriguez-Robinson,620000,"5016 Bryan Wall
+Jessicahaven, VA 92509",True,500k-1M USD
+Daniel Berger,"Rodgers, Mclean and Austin",180000,"379 Barbara Center
+New Paul, MT 62635",False,0k-500k USD
+Randy Sawyer,Mora-Bell,970000,"11662 Kramer Expressway Suite 913
+Powellmouth, ME 23497",True,500k-1M USD
+Mr. Daniel Spears III,Lewis-Grant,660000,"9615 Nathan Isle
+South Douglasbury, AK 64765",True,500k-1M USD
+Corey Hoover,Rogers-Edwards,670000,"46636 Jenkins Summit
+Amandaview, AK 14004",True,500k-1M USD
+Rachel Hoffman,Kaiser-Tran,530000,"52775 Jimenez Row
+North Kristin, CT 38999",True,500k-1M USD
+Calvin Hayes,Thomas-Frederick,780000,"00142 Hernandez Expressway
+Romeroberg, NC 55595",True,500k-1M USD
+Matthew Keller,Gonzalez-Love,50000,"929 Brent Way Suite 104
+South Dylan, MT 15955",False,0k-500k USD
+Daniel Riddle,Blankenship Inc,760000,"250 Barbara Road Suite 492
+East Nicolebury, WV 93339",True,500k-1M USD
+John Roberts,Carrillo Ltd,530000,"24908 Hannah Throughway Apt. 684
+Lopezland, MN 28982",True,500k-1M USD
+Brent Diaz,Crawford and Sons,850000,"0761 Clark Highway Apt. 785
+Lake Lindafort, NV 70942",True,500k-1M USD
+Adam Morton,Young-Hall,70000,"115 Nichole Path Apt. 067
+Bennettmouth, VA 52199",False,0k-500k USD
+John Ray,Travis LLC,520000,"735 Valerie Cliffs
+North Laurabury, TN 42388",True,500k-1M USD
+Cynthia Mullen,Case-Allen,140000,"627 Jesse Valley
+New Amyland, MI 98160",False,0k-500k USD
+Janet Page,Lewis Ltd,170000,"59289 Marshall Mission Suite 947
+Fishermouth, SC 89207",False,0k-500k USD
+Shawn Chavez,Hamilton LLC,600000,"8460 Kathy Courts
+North Aaronmouth, AL 22237",True,500k-1M USD
+Philip Baxter,"Klein, Travis and Green",250000,"722 Oliver Route
+Heatherville, VT 88058",False,0k-500k USD
+Veronica Anderson,Young-Baker,200000,"2756 Cassandra Lake Apt. 115
+Lake Shelbystad, SC 72891",False,0k-500k USD
+Rodney White,Cook-Tate,340000,"42026 Nicholas Cliff Suite 490
+Elliottstad, VT 63295",False,0k-500k USD
+Michael Warner,Cole-Peters,670000,"PSC 5217, Box 1441
+APO AP 90235",True,500k-1M USD
+Amy Cook,Kim PLC,740000,"7534 Hernandez Mountains Suite 111
+Port Jordan, AZ 51228",True,500k-1M USD
